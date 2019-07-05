@@ -19,8 +19,8 @@ def generate_output(data):
     data.update(os.environ) # Expose env variables to template
     log.debug('Generating output ...')
     env = Environment(loader = FileSystemLoader('.'))
-    template = env.get_template('site/index.html')
-    template.stream(data).dump('public/index.html')
+    template = env.get_template('site/index.json')
+    template.stream(data).dump('public/index.json')
 
 def load_data():
     url = f'https://{os.environ["SHOPIFY_SHOP_DOMAIN"]}.myshopify.com/api/graphql'
