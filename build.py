@@ -23,7 +23,7 @@ def generate_output(data):
     template.stream(data).dump('public/index.json')
 
 def load_data():
-    url = f'https://{os.environ["SHOPIFY_SHOP_DOMAIN"]}.myshopify.com/api/graphql'
+    url = f'https://{os.environ.["SHOPIFY_SHOP_DOMAIN"]}.myshopify.com/api/graphql'
     json = { 'query' : '''
 {
   shop {
