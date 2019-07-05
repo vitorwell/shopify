@@ -33,7 +33,7 @@ def load_data():
         node {
           id
           title
-          descriptionHtml
+          description
           images(first: 1) {
             edges {
               node {
