@@ -1,0 +1,15 @@
+{ "products" : [
+
+  { "image-url" : "https://cdn.shopify.com/s/files/1/0041/6025/8083/products/download.jpg?v=1562103332",
+  "title": "Rapé branco",
+  "description" : "",
+  "id" : "1786382286883"
+  }
+,
+  { "image-url" : "https://cdn.shopify.com/s/files/1/0041/6025/8083/products/Anotacao_2019-07-05_135040.jpg?v=1562362499",
+  "title": "Tabaco moi",
+  "description" : "isso é um teste",
+  "id" : "1791296471075"
+  }
+
+] }
