@@ -1,0 +1,256 @@
+{
+  "products": [
+    {
+      "id": 1786382286883,
+      "title": "Rapé branco",
+      "body_html": "",
+      "vendor": "Rapé Sagrado",
+      "product_type": "",
+      "created_at": "2019-07-02T18:35:30-03:00",
+      "handle": "rape-branco",
+      "updated_at": "2019-07-11T23:40:30-03:00",
+      "published_at": "2019-07-02T18:35:30-03:00",
+      "template_suffix": null,
+      "tags": "rapé",
+      "published_scope": "global",
+      "variants": [
+        {
+          "id": 15114786045987,
+          "product_id": 1786382286883,
+          "title": "Default Title",
+          "price": "49.90",
+          "sku": "brc",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "fulfillment_service": "manual",
+          "inventory_management": null,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2019-07-02T18:35:30-03:00",
+          "updated_at": "2019-07-02T18:35:30-03:00",
+          "taxable": true,
+          "barcode": "",
+          "grams": 900,
+          "image_id": null,
+          "weight": 0.9,
+          "weight_unit": "kg",
+          "inventory_item_id": 15337035595811,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
+          "requires_shipping": true
+        }
+      ],
+      "options": [
+        {
+          "id": 2345720315939,
+          "product_id": 1786382286883,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 5768569421859,
+          "product_id": 1786382286883,
+          "position": 1,
+          "created_at": "2019-07-02T18:35:32-03:00",
+          "updated_at": "2019-07-02T18:35:32-03:00",
+          "alt": null,
+          "width": 251,
+          "height": 201,
+          "src": "https://cdn2.shopify.com/s/files/1/0041/6025/8083/products/download.jpg?v=1562103332",
+          "variant_ids": [
+            
+          ]
+        }
+      ],
+      "image": {
+        "id": 5768569421859,
+        "product_id": 1786382286883,
+        "position": 1,
+        "created_at": "2019-07-02T18:35:32-03:00",
+        "updated_at": "2019-07-02T18:35:32-03:00",
+        "alt": null,
+        "width": 251,
+        "height": 201,
+        "src": "https://cdn2.shopify.com/s/files/1/0041/6025/8083/products/download.jpg?v=1562103332",
+        "variant_ids": [
+          
+        ]
+      }
+    },
+    {
+      "id": 1800981151779,
+      "title": "Rapé de Jurema",
+      "body_html": "5 gramas",
+      "vendor": "Rapé Sagrado",
+      "product_type": "",
+      "created_at": "2019-07-11T14:27:24-03:00",
+      "handle": "rape-de-jurema",
+      "updated_at": "2019-07-11T23:41:08-03:00",
+      "published_at": "2019-07-11T14:27:24-03:00",
+      "template_suffix": null,
+      "tags": "rapé",
+      "published_scope": "global",
+      "variants": [
+        {
+          "id": 15192276008995,
+          "product_id": 1800981151779,
+          "title": "Default Title",
+          "price": "60.00",
+          "sku": "",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2019-07-11T14:27:24-03:00",
+          "updated_at": "2019-07-11T14:38:05-03:00",
+          "taxable": true,
+          "barcode": "",
+          "grams": 200,
+          "image_id": null,
+          "weight": 0.2,
+          "weight_unit": "kg",
+          "inventory_item_id": 15461578407971,
+          "inventory_quantity": 600,
+          "old_inventory_quantity": 600,
+          "requires_shipping": true
+        }
+      ],
+      "options": [
+        {
+          "id": 2365815554083,
+          "product_id": 1800981151779,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 5826428862499,
+          "product_id": 1800981151779,
+          "position": 1,
+          "created_at": "2019-07-11T14:27:26-03:00",
+          "updated_at": "2019-07-11T14:27:26-03:00",
+          "alt": null,
+          "width": 493,
+          "height": 450,
+          "src": "https://cdn2.shopify.com/s/files/1/0041/6025/8083/products/9f48feaefe_1.jpg?v=1562866046",
+          "variant_ids": [
+            
+          ]
+        }
+      ],
+      "image": {
+        "id": 5826428862499,
+        "product_id": 1800981151779,
+        "position": 1,
+        "created_at": "2019-07-11T14:27:26-03:00",
+        "updated_at": "2019-07-11T14:27:26-03:00",
+        "alt": null,
+        "width": 493,
+        "height": 450,
+        "src": "https://cdn2.shopify.com/s/files/1/0041/6025/8083/products/9f48feaefe_1.jpg?v=1562866046",
+        "variant_ids": [
+          
+        ]
+      }
+    },
+    {
+      "id": 1791296471075,
+      "title": "Tabaco moi",
+      "body_html": "1 kg de tabaco moi orgânico",
+      "vendor": "Rapé Sagrado",
+      "product_type": "",
+      "created_at": "2019-07-05T18:34:56-03:00",
+      "handle": "tabaco-moi",
+      "updated_at": "2019-07-11T17:18:58-03:00",
+      "published_at": "2019-07-05T18:34:56-03:00",
+      "template_suffix": null,
+      "tags": "",
+      "published_scope": "global",
+      "variants": [
+        {
+          "id": 15146576248867,
+          "product_id": 1791296471075,
+          "title": "Default Title",
+          "price": "120.00",
+          "sku": "",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2019-07-05T18:34:56-03:00",
+          "updated_at": "2019-07-11T17:18:58-03:00",
+          "taxable": true,
+          "barcode": "",
+          "grams": 600,
+          "image_id": null,
+          "weight": 0.6,
+          "weight_unit": "kg",
+          "inventory_item_id": 15382685450275,
+          "inventory_quantity": 300,
+          "old_inventory_quantity": 300,
+          "requires_shipping": true
+        }
+      ],
+      "options": [
+        {
+          "id": 2352696098851,
+          "product_id": 1791296471075,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 5827505356835,
+          "product_id": 1791296471075,
+          "position": 1,
+          "created_at": "2019-07-11T17:18:39-03:00",
+          "updated_at": "2019-07-11T17:18:39-03:00",
+          "alt": null,
+          "width": 600,
+          "height": 450,
+          "src": "https://cdn2.shopify.com/s/files/1/0041/6025/8083/products/2c899de424.jpg?v=1562876319",
+          "variant_ids": [
+            
+          ]
+        }
+      ],
+      "image": {
+        "id": 5827505356835,
+        "product_id": 1791296471075,
+        "position": 1,
+        "created_at": "2019-07-11T17:18:39-03:00",
+        "updated_at": "2019-07-11T17:18:39-03:00",
+        "alt": null,
+        "width": 600,
+        "height": 450,
+        "src": "https://cdn2.shopify.com/s/files/1/0041/6025/8083/products/2c899de424.jpg?v=1562876319",
+        "variant_ids": [
+          
+        ]
+      }
+    }
+  ]
+}
