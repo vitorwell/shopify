@@ -5,5 +5,6 @@
   "description" : "{{product['node']['description']}}",
   "id" : "{{product['node']['id']}}"
   }
+  {% if not loop.last %},{% endif %}
 {% endfor %}
 ] }
